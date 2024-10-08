@@ -3,7 +3,7 @@
 Estructura del proyecto y ficheros más importantes marcados en azul.
 Los ficheros main .kt y los .xml.
 
-![alt text](image-2.png)
+![alt text](imatges/image-2.png)
 
 ### Modificaciones iniciales
 Añadir al código botones de decrementar y resetear primero en el MainActivity.kt
